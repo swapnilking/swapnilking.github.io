@@ -1,0 +1,43 @@
+/*selector {
+	property: value;
+}*/
+*{
+	text-align: right;
+}
+
+body {
+	background-image: url(https://i.pinimg.com/originals/36/70/4c/36704ca95e72d0528334f6fe475e5fa9.jpg);
+    background-size: cover;
+}
+ p {
+	color: #AA4139;
+	text-align: center;
+	border: 5px solid red;
+	cursor: pointer;
+}
+p {
+	line-height: : 150px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+	font-family:"Poiret One", cursive;
+}
+img {
+	float: right; 
+}
+footer{
+	clear: both;
+	text-align: center;
+
+}
+li { 
+	list-style: none;
+	display: inline-block;
+}
+.webtext:first-child {
+	border: 5px dashed green;
+}
+.active{
+	color: red;
+}
+
